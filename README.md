@@ -10,6 +10,15 @@ I hope this repository will be helpful for people who just started learning the 
 * **Cumulant Generating Function** - based on Moment Generating Function, worked out to 2nd derivatives.
 * **Cauchy Distribution** - change of variables, mean, and probability distribution function.
 
+## Problem Set 2.
+`ps02_vilkha.ipynb`
+
+* **Cumulant Generating Function** - covariance definition
+* **Change of Variables** - 2D transformation of variables, Jacobian, and probability distribution function.
+* **Monte Carlo** - probability distribution function, mean, and variance estimation using Monte Carlo sampling.
+* **Poission Distribution** - probability mass function examples with application of Bayes' Theorem.
+* **Multinomial Distribution** - derivation of moment generating function and Expectation values, Variance, and Covariance from it.
+
 **WARNING.** If you are pulling the code for the homework submission, I strongly advise to use it just for understanding the problem and writing your own code. Please use this repository as a learning tool, not just copy the code for the homeworks. I can't track how you use it, so I hope you use it responsibly. If copying the code will be the case here, I will have to close the repository to avoid that.
 
 Please comment and collaborate on the project if you have suggestions, have found a way to optimize the problem, or have found a bug in my code.
